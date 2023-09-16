@@ -422,19 +422,19 @@ with tab1:
         As you navigate the maze, find treasure chests to learn more about what AI/ML is. 
         However, beware for the monsters, which are ethical obstacles people run into when working with AI/ML. Good luck!!
         """
-        st.write(f'<p style="color:#9c9d9f">{intro_text}</p>', unsafe_allow_html=True)
+        st.write(f'<p style="color:#ffffff">{intro_text}</p>', unsafe_allow_html=True)
       #  audio_file = open("audio/intro.mp3", "rb")
        # audio_bytes = audio_file.read()
        # st.audio(audio_bytes, format="audio/mpeg")
 
     st.subheader("How To Play")
     st.write(
-        '<p style="color:#9c9d9f">To start the game go to the "start game" tab. Please be sure to switch to <b>dark mode</b> or the custom theme. The Dungeon is meant to be played in the dark! </p>',
+        '<p style="color:#ffffff">To start the game go to the "start game" tab. Please be sure to switch to <b>dark mode</b> or the custom theme. The Dungeon is meant to be played in the dark! </p>',
         unsafe_allow_html=True,
     )
     st.subheader("Controls")
     st.write(
-        '<p style="color:#9c9d9f">Desktop: please use keyboard arrows | Mobile (Android, Chrome): please use on-screen buttons | iOS: unfortunately, the auto-scrolling feature does not work yet for iOS.</p>',
+        '<p style="color:#ffffff">Desktop: please use keyboard arrows | Mobile (Android, Chrome): please use on-screen buttons | iOS: unfortunately, the auto-scrolling feature does not work yet for iOS.</p>',
         unsafe_allow_html=True,
     )
     
