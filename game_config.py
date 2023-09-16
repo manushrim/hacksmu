@@ -162,4 +162,4 @@ tileset_movable = {
 }
 
 
-player_img = open(graphics/other/player.gif)
+player_img = open("graphics/other/player.gif")
