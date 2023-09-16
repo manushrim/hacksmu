@@ -419,9 +419,8 @@ with tab1:
     with col2:
         intro_text = """
         Through this game, step into the shoes of a young person in tech and learn more about Artificial Intelligence and Machine Learning (AI/ML). 
-        As you navigate the maze, find the boxes to find snippets of information on what AI/ML. 
-        Try to look for some solutions to ethical issues in AI/ML, to not only educate yourself but earn more points.
-        However, beware for ethics suckers, which are ethical obstacles people run into when working with AI/ML. Good luck!!
+        As you navigate the maze, find treasure chests to learn more about what AI/ML is. 
+        However, beware for the monsters, which are ethical obstacles people run into when working with AI/ML. Good luck!!
         """
         st.write(f'<p style="color:#9c9d9f">{intro_text}</p>', unsafe_allow_html=True)
         audio_file = open("audio/intro.mp3", "rb")
