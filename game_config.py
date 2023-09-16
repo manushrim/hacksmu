@@ -161,4 +161,4 @@ tileset_movable = {
     "FL": True,
 }
 
-player_img = "graphics/other/message.png"
+player_img = "https://media4.giphy.com/media/QbebGmQrzeWgVrVqDL/giphy.gif"
