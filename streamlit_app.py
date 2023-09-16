@@ -402,7 +402,7 @@ if (
 #
 # ------------------------------------------------------------
 
-tab1, tab2 = st.tabs(["intro", "start game"])
+tab1, tab2 = st.tabs(["About", "Play Game!"])
 
 # ----------------- game start --------
 
@@ -427,12 +427,12 @@ with tab1:
        # audio_bytes = audio_file.read()
        # st.audio(audio_bytes, format="audio/mpeg")
 
-    st.subheader("| Game start")
+    st.subheader("How To Play")
     st.write(
         '<p style="color:#9c9d9f">To start the game go to the "start game" tab. Please be sure to switch to <b>dark mode</b> or the custom theme. The Dungeon is meant to be played in the dark! </p>',
         unsafe_allow_html=True,
     )
-    st.subheader("| Controls")
+    st.subheader("Controls")
     st.write(
         '<p style="color:#9c9d9f">Desktop: please use keyboard arrows | Mobile (Android, Chrome): please use on-screen buttons | iOS: unfortunately, the auto-scrolling feature does not work yet for iOS.</p>',
         unsafe_allow_html=True,
