@@ -161,4 +161,4 @@ tileset_movable = {
     "FL": True,
 }
 
-player_img = "https://img.itch.zone/aW1nLzgxMjc1NzEuZ2lm/original/XJ9Zo1.gif"
+player_img = player.gif
