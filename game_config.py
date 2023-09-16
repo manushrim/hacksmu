@@ -162,4 +162,4 @@ tileset_movable = {
 }
 
 
-player_img = "graphics/other/player.gif"
+player_img = "file":"player.png"
