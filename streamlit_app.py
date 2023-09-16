@@ -407,14 +407,14 @@ tab1, tab2 = st.tabs(["About", "Play Game!"])
 # ----------------- game start --------
 
 with tab1:
-    st.subheader("Welcome to CodeQuest: An AI/ML Adventure!")
+    st.subheader('<p style="color:#ffffff">Welcome to CodeQuest: An AI/ML Adventure!')
     col1, col2 = st.columns(2, gap="small")
     with col1:
         # main_image
         st.image("https://r73.cooltext.com/rendered/cooltext443289264747154.png")
 
         st.caption(
-            '<p style="color:#ffffff">Go on a mission to learn more about Ai/ML', unsafe_allow_html=True
+            "Go on a mission to learn more about Ai/ML", unsafe_allow_html=True
         )
     with col2:
         intro_text = """
