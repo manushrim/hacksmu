@@ -437,7 +437,7 @@ with tab1:
         '<p style="color:#9c9d9f">Desktop: please use keyboard arrows | Mobile (Android, Chrome): please use on-screen buttons | iOS: unfortunately, the auto-scrolling feature does not work yet for iOS.</p>',
         unsafe_allow_html=True,
     )
-    st.subheader("| Github")
+    #st.subheader("| Github")
     st.write(
         '<p style="color:#9c9d9f">Create your own dungeon! Visit <a href="https://github.com/TomJohnH/streamlit-dungeon">GitHub</a>. Edit your levels with <a href="https://dungeon-editor.streamlit.app/">The Dungeon editor</a>.</p><br>',
         unsafe_allow_html=True,
