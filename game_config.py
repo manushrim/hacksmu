@@ -45,7 +45,7 @@ level_config = """
             "bubble1":{"text":"What?", "x":7, "y":5},
             "bubble2":{"text":"Strange", "x":16, "y":11},
             "bubble3":{"text":"Monsters?", "x":13, "y":3},
-            "bubble4":{"text":"hi (ツ)", "x":10, "y":6}
+            "bubble4":{"text":"Welcome to CodeQuest! Collect treasure chests to learn the basics of ML in Python!", "x":10, "y":6}
         },
         "chests": {
             "chest1":{"x":18, "y":6, "file":"chest_golden_open_full.png", "visible":true},
