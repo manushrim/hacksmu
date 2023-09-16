@@ -163,5 +163,4 @@ tileset_movable = {
 
 
 
-player_img = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1bc68440-cb51-4131-90fd-7878e2f356ca/d1rieap-ba53af7e-8381-4c3e-aca0-8bdb11325572.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFiYzY4NDQwLWNiNTEtNDEzMS05MGZkLTc4NzhlMmYzNTZjYVwvZDFyaWVhcC1iYTUzYWY3ZS04MzgxLTRjM2UtYWNhMC04YmRiMTEzMjU1NzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HyP3TJKD7nYi57XLDdS4WAfphAMu8twazclTPDqKJ5E"
-
+player_img = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2FZG4Lrx&psig=AOvVaw1Xp54PuT2lMwA-BFcDB4gi&ust=1694987413257000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMj3lKeOsIEDFQAAAAAdAAAAABBJ"
