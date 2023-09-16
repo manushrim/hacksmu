@@ -161,4 +161,4 @@ tileset_movable = {
     "FL": True,
 }
 
-player_img = "https://media4.giphy.com/media/QbebGmQrzeWgVrVqDL/giphy.gif"
+player_img = "https://github.com/manushrim/hacksmu/blob/main/graphics/other/player.gif"
