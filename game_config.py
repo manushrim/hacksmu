@@ -161,4 +161,4 @@ tileset_movable = {
     "FL": True,
 }
 
-player_img = "player.gif"
+player_img = "graphics/other/player.gif"
