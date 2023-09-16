@@ -162,4 +162,4 @@ tileset_movable = {
 }
 
 
-player_img = "https://github.com/manushrim/hacksmu/blob/fb7895391868e3ad10b50467b5f1141277fc9783/graphics/other/player.gif"
+player_img = "hacksmu/graphics/other/player.gif"
