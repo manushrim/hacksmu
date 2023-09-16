@@ -81,11 +81,11 @@ level_config = """
             "torch2":{"text":"T", "x":21, "y":11}
         }, 
         "bubbles": {
-            "bubble1":{"text":"What?", "x":7, "y":7},
+            "bubble1":{"text":"welcome to ai/ml this is super duper longnnggn?", "x":7, "y":7},
             "bubble2":{"text":"Strange", "x":11, "y":11},
             "bubble3":{"text":"Monsters?", "x":13, "y":3},
             "bubble4":{"text":"Meow!", "x":47, "y":12},
-            "bubble5":{"text":"welcome to ai/ml this is super duper long! ", "x":15, "y":6}
+            "bubble5":{"text":"hi! ", "x":15, "y":6}
         },
         "chests": {
             "chest1":{"x":4, "y":14, "file":"chest_golden_open_full.png", "visible":true},
