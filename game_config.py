@@ -163,5 +163,5 @@ tileset_movable = {
 
 
 
-player_img = "https://img.itch.zone/aW1hZ2UvMTY3NDM2NC85ODYwMjQyLmdpZg==/original/%2B4pbHF.gif"
+player_img = "https://i.pinimg.com/originals/05/1a/b4/051ab4711df54275e98341d84ac68ed6.gif"
 
