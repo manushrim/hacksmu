@@ -411,7 +411,7 @@ with tab1:
     col1, col2 = st.columns(2, gap="small")
     with col1:
         # main_image
-        st.image("https://r72.cooltext.com/rendered/cooltext443289220251074.png")
+        st.image("https://r73.cooltext.com/rendered/cooltext443289264747154.png")
 
         st.caption(
             "Codequest: An AI/ML Adventure", unsafe_allow_html=True
