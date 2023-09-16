@@ -407,7 +407,7 @@ tab1, tab2 = st.tabs(["About", "Play Game!"])
 # ----------------- game start --------
 
 with tab1:
-    st.subheader("Welcome to CodeQuest: An AI/ML Adventure!")
+    st.header("Welcome to CodeQuest: An AI/ML Adventure!")
     col1, col2 = st.columns(2, gap="small")
     with col1:
         # main_image
