@@ -162,4 +162,4 @@ tileset_movable = {
 }
 
 
-player_img = "player.gif"
+player_img = "file:///Users/shenqinmonb/Documents/GitHub/hacksmu/graphics/other/player.gif"
