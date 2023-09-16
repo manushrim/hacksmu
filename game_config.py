@@ -163,4 +163,4 @@ tileset_movable = {
 
 
 
-player_img = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2FZG4Lrx&psig=AOvVaw1Xp54PuT2lMwA-BFcDB4gi&ust=1694987413257000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMj3lKeOsIEDFQAAAAAdAAAAABBJ"
+player_img = "https://media4.giphy.com/media/L3bluS4t3l8syogXvu/giphy.gif"
