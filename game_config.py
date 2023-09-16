@@ -161,4 +161,4 @@ tileset_movable = {
     "FL": True,
 }
 
-player_img = "https://raw.githubusercontent.com/TomJohnH/streamlit-dungeon/main/graphics/other/player.gif"
+player_img = "https://media4.giphy.com/media/QbebGmQrzeWgVrVqDL/giphy.gif"
