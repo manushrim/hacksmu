@@ -67,7 +67,7 @@ level_config = """
             "monster2":{"x":17,"y":13,"file":"monster.gif","hp":5,"gold":0,"alive":true},
             "monster3":{"x":17,"y":21,"file":"monster.gif","hp":5,"gold":0,"alive":true},
             "monster4":{"x":24,"y":27,"file":"monster.gif","hp":5,"gold":0,"alive":true},
-            "monster5":{"x":10,"y":27,"file":"monster.png","hp":5,"gold":0,"alive":true}
+            "monster5":{"x":10,"y":27,"file":"monster.gif","hp":5,"gold":0,"alive":true}
             },
         "boxes": {
             "box1":{"text":"BOX", "x":10, "y":6, "z":10}
