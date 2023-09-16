@@ -163,5 +163,5 @@ tileset_movable = {
 
 
 
-player_img = "https://i.pinimg.com/originals/05/1a/b4/051ab4711df54275e98341d84ac68ed6.gif"
+player_img = "https://raw.githubusercontent.com/manushrim/hacksmu/main/graphics/other/player.gif"
 
