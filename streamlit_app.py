@@ -438,7 +438,7 @@ with tab1:
         unsafe_allow_html=True,
     )
     #st.subheader("| Github")
-    #st.write(
+    st.write(
         '<p style="color:#9c9d9f">Create your own dungeon! Visit <a href="https://github.com/TomJohnH/streamlit-dungeon">GitHub</a>. Edit your levels with <a href="https://dungeon-editor.streamlit.app/">The Dungeon editor</a>.</p><br>',
        # unsafe_allow_html=True,
    # )
