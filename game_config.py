@@ -162,4 +162,4 @@ tileset_movable = {
 }
 
 
-player_img = "file":"player.png"
+player_img = "player.png"
