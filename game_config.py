@@ -163,4 +163,4 @@ tileset_movable = {
 
 
 
-player_img = "https://giphy.com/gifs/game-8bit-sprite-QbebGmQrzeWgVrVqDL?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term="
+player_img = "https://raw.githubusercontent.com/manushrim/hacksmu/main/graphics/other/player.gif"
