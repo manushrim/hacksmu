@@ -163,5 +163,5 @@ tileset_movable = {
 
 
 
-player_img = "https://i.pinimg.com/originals/05/1a/b4/051ab4711df54275e98341d84ac68ed6.gif"
+player_img = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1bc68440-cb51-4131-90fd-7878e2f356ca/d1rieap-ba53af7e-8381-4c3e-aca0-8bdb11325572.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFiYzY4NDQwLWNiNTEtNDEzMS05MGZkLTc4NzhlMmYzNTZjYVwvZDFyaWVhcC1iYTUzYWY3ZS04MzgxLTRjM2UtYWNhMC04YmRiMTEzMjU1NzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HyP3TJKD7nYi57XLDdS4WAfphAMu8twazclTPDqKJ5E"
 
