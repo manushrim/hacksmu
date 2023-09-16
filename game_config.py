@@ -163,4 +163,4 @@ tileset_movable = {
 
 
 
-player_img = "https://media4.giphy.com/media/L3bluS4t3l8syogXvu/giphy.gif"
+player_img = "https://giphy.com/gifs/game-8bit-sprite-QbebGmQrzeWgVrVqDL?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term="
