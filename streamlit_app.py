@@ -414,15 +414,14 @@ with tab1:
         st.image("graphics/other/dungeon_crawler.png")
 
         st.caption(
-            "The Dungeon: a streamlit dungeon crawler game", unsafe_allow_html=True
+            "The Dungeon: a game to learn more about AI/ML", unsafe_allow_html=True
         )
     with col2:
         intro_text = """
-        TESTING TESTING HELLO Explore the depths of an ancient dungeon in the first streamlit-based dungeon crawler game!
-        Navigate through dangerous traps, defeat fearsome monsters and uncover the secrets of the DuNgeOn.
-        With intuitive controls and beautiful graphics, this game will keep you entertained for hours.
-        Experience the thrill of adventure as you progress through levels and uncover powerful treasures.
-        Join the adventure today and become the hero of the dungeon!
+        Through this game, step into the shoes of a young woman in tech and learn more about Artificial Intelligence and Machine Learning. 
+        As you navigate the maze, find the boxes to find snippets of information on what AI/ML. 
+        Try to look for some solutions to ethical issues in AI/ML, to not only educate yourself but earn more points.
+        However, beware for confidence suckers, which are obstacles women face in STEM. Good luck!!
         """
         st.write(f'<p style="color:#9c9d9f">{intro_text}</p>', unsafe_allow_html=True)
         audio_file = open("audio/intro.mp3", "rb")
