@@ -537,7 +537,7 @@ with tab2:
 
     st.markdown(
         f"""
-        <div class="bpad" id="bpad">HP: {st.session_state["player"].hp}/20 | Gold: {st.session_state["player"].gold} | Exp: 0 </div>""",
+        <div class="bpad" id="bpad">HP: {st.session_state["player"].hp}/20 | Points: {st.session_state["player"].gold} | Exp: 0 </div>""",
         unsafe_allow_html=True,
     )
 
