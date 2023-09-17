@@ -432,7 +432,7 @@ with tab1:
    # st.subheader("How To Play")
    
     st.write(
-        '<p style="color:#ffffff">To start the game go to the "start game" tab. Please be sure to switch to <b>dark mode</b> or the custom theme. The Dungeon is meant to be played in the dark! </p>',
+        '<p style="color:#ffffff">To start the game go to the "Play Game!" tab. Navigate through the maze to find boxes and treasure chests to learn more about AI/ML while avoiding the monsters.'
         unsafe_allow_html=True,
     )
 
