@@ -403,6 +403,7 @@ if (
 # ------------------------------------------------------------
 
 tab1, tab2 = st.tabs(["About", "Play Game!"])
+st.markdown(f'<h1 style="color:#ee25ff;font-size:48px;">{tab1}</h1>', unsafe_allow_html=True)
 
 # ----------------- game start --------
 
