@@ -428,16 +428,20 @@ with tab1:
        # audio_bytes = audio_file.read()
        # st.audio(audio_bytes, format="audio/mpeg")
 
-    st.markdown(f'<h1 style="color:#a325ff;font-size:32px;">{"How To Play"}</h1>', unsafe_allow_html=True)
+    
+
+    st.markdown(f'<h1 style="color:#a325ff;font-size:32px;">{"Machine Learning Process (For Beginners)"}</h1>', unsafe_allow_html=True)
    # st.subheader("How To Play")
-   
+   st.image("https://miro.medium.com/v2/resize:fit:1400/format:webp/1*hkmTcxo023BiS3HP9XBpDw.png")
+    
+
+    st.markdown(f'<h1 style="color:#3b25ff;font-size:32px;">{"Controls"}</h1>', unsafe_allow_html=True)
+    #st.subheader("Controls")
     st.write(
         '<p style="color:#ffffff">To start the game go to the "Play Game!" tab. Navigate through the maze to find boxes and treasure chests to learn more about AI/ML while avoiding the monsters.',
         unsafe_allow_html=True,
     )
 
-    st.markdown(f'<h1 style="color:#3b25ff;font-size:32px;">{"Controls"}</h1>', unsafe_allow_html=True)
-    #st.subheader("Controls")
     st.write(
         '<p style="color:#ffffff">Desktop: please use keyboard arrows  |  Mobile (Android, Chrome): please use on-screen buttons  |  iOS: unfortunately, the auto-scrolling feature does not work yet for iOS.</p>',
         unsafe_allow_html=True,
