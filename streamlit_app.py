@@ -473,7 +473,7 @@ with tab2:
                 restart_game()
     if st.session_state["end"] == True:
         display_html = st.markdown(
-            "Thank you for playing the demo of The Dungeon. More content coming soom!",
+            "Thank you for playing CodeQuest, we hope to see you return!,
             unsafe_allow_html=True,
         )
         st.markdown(
