@@ -432,7 +432,7 @@ with tab1:
 
     st.markdown(f'<h1 style="color:#a325ff;font-size:32px;">{"Machine Learning Process (For Beginners)"}</h1>', unsafe_allow_html=True)
    # st.subheader("How To Play")
-        st.image("https://miro.medium.com/v2/resize:fit:1400/format:webp/1*hkmTcxo023BiS3HP9XBpDw.png")
+    st.image("https://miro.medium.com/v2/resize:fit:1400/format:webp/1*hkmTcxo023BiS3HP9XBpDw.png")
     
 
     st.markdown(f'<h1 style="color:#3b25ff;font-size:32px;">{"Controls"}</h1>', unsafe_allow_html=True)
