@@ -428,7 +428,7 @@ with tab1:
        # audio_bytes = audio_file.read()
        # st.audio(audio_bytes, format="audio/mpeg")
 
-    st.markdown(f'<h1 style="color:#a325ff;font-size:36px;">{"How To Play"}</h1>', unsafe_allow_html=True)
+    st.markdown(f'<h1 style="color:#a325ff;font-size:32px;">{"How To Play"}</h1>', unsafe_allow_html=True)
     st.subheader("How To Play")
    
     st.write(
