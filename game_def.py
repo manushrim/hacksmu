@@ -10,6 +10,32 @@ from random import randrange
 # ------------------------------------------------------------
 
 
+class NextString:
+    def __init__(self, strings):
+        self.strings = strings
+        self.index = 0
+
+    def next(self):
+        if self.index >= len(self.strings):
+            self.index = 0
+        string = self.strings[self.index]
+        self.index += 1
+        return string
+
+next_string = NextString([
+    "Python is the language for data science and machine learning",
+    "learn Pandas to begin", 
+    "learn Matplotlib",
+    "learn Streamlit",
+    "learn Statistics and Probability",
+    "learn Scikit-Learn",
+    "learn TensorFlow",
+    "learn PyTorch",
+    "Start building your own projects at kaggle",
+
+        ])
+
+
 def character_can_move(level_matrix, tileset_movable, x, y):
     """
     This function checks if the move is "legal" for a character in a given level matrix.
@@ -340,7 +366,7 @@ def create_text_bubble_html(text, x, y):
         <div class="container_text" display="flex"; style="position: relative;
         grid-column-start: {x}; grid-row-start: {y+2}; grid-column-end: {x+10};">
             <img src="https://raw.githubusercontent.com/TomJohnH/streamlit-dungeon/main/graphics/other/message.png">
-            <div style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); font-size:0.875rem;">{text}</div>
+            <div style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); font-size:0.875rem;">{next_string.next()}</div>
         </div>
     """
 
