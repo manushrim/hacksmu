@@ -26,10 +26,10 @@ next_string = NextString([
     "Python is a data science language that offers ML data libraries",
     "Pandas: provides data structures to clean/transform data", 
     "Matplotlib: allows you to graph data & analyze patterns",
-    "Streamlit: produces web apps to execute functions on data patterns",
-    "OpenCV: an image recognition library for computer vision",
+    "Streamlit: produces web apps to execute functions on data ",
+    "OpenCV: an image recognition library",
     "Scikit-Learn: provides ML algorithms for data classification",
-    "TensorFlow: trains ML models to perform complex tasks",
+    "TensorFlow: trains ML models to perform tasks",
     "PyTorch: another open source ML library",
     "Build your own projects at kaggle: compete with others in ML",
 
