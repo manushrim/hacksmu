@@ -26,7 +26,7 @@ next_string = NextString([
     "Python is a data science language that offers ML data libraries",
     "Pandas: provides data structures to clean/transform data", 
     "Matplotlib: allows you to graph data & analyze patterns",
-    "Streamlit: produces web apps to execute functions on data ",
+    "Streamlit: produces web apps to execute functions on data",
     "OpenCV: an image recognition library",
     "Scikit-Learn: provides ML algorithms for data classification",
     "TensorFlow: trains ML models to perform tasks",
@@ -364,7 +364,7 @@ def create_text_bubble_html(text, x, y):
     """
     return f"""
         <div class="container_text" display="flex"; style="position: relative;
-        grid-column-start: {x}; grid-row-start: {y+2}; grid-column-end: {x+10};">
+        grid-column-start: {x}; grid-row-start: {y+3}; grid-column-end: {x+10};">
             <img src="https://raw.githubusercontent.com/TomJohnH/streamlit-dungeon/main/graphics/other/message.png">
             <div style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); font-size:0.875rem;">{next_string.next()}</div>
         </div>
