@@ -407,7 +407,7 @@ tab1, tab2 = st.tabs(["About", "Play Game!"])
 # ----------------- game start --------
 
 with tab1:
-    st.markdown(f'<h1 style="color:#ee25ff;font-size:24px;">{"Welcome to CodeQuest!”"}</h1>', unsafe_allow_html=True)
+    st.markdown(f'<h1 style="color:#ee25ff;font-size:36px;">{"Welcome to CodeQuest!"}</h1>', unsafe_allow_html=True)
     st.header("Welcome to CodeQuest!")
     col1, col2 = st.columns(2, gap="small")
     with col1:
