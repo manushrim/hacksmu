@@ -24,7 +24,7 @@ class NextString:
 
 next_string = NextString([
     "Python is the language for data science and machine learning",
-    "learn Pandas to begin", 
+    "learn Pandas: provides data structures to clean/transform data", 
     "learn Matplotlib",
     "learn Streamlit",
     "learn Statistics and Probability",
