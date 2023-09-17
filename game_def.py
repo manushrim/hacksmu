@@ -368,3 +368,6 @@ def get_text_boxes(player_x, player_y, level_name):
         st.session_state.bubble_text = ""
 
     return result
+
+
+   

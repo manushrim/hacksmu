@@ -23,7 +23,7 @@ import time
 # ------------------------------------------------------------
 
 st.set_page_config(
-    page_title="The Dungeon", page_icon="🗡️", initial_sidebar_state="collapsed"
+    page_title="CodeQuest!", page_icon="🔐", initial_sidebar_state="collapsed"
 )
 
 
@@ -407,14 +407,15 @@ tab1, tab2 = st.tabs(["About", "Play Game!"])
 # ----------------- game start --------
 
 with tab1:
-    st.header("Welcome to CodeQuest: An AI/ML Adventure!")
+    st.markdown(f'<h1 style="color:#ee25ff;font-size:48px;">{"Welcome to CodeQuest!"}</h1>', unsafe_allow_html=True)
+    #st.header("Welcome to CodeQuest!")
     col1, col2 = st.columns(2, gap="small")
     with col1:
         # main_image
-        st.image("https://r73.cooltext.com/rendered/cooltext443289264747154.png")
+        st.image("https://raw.githubusercontent.com/manushrim/hacksmu/main/graphics/other/gradient%20text%20for%20title.png")
 
         st.caption(
-            "Go on a mission to learn more about Ai/ML", unsafe_allow_html=True
+            '<p style="color:#ffffff">Go on a mission to learn more about AI/ML', unsafe_allow_html=True
         )
     with col2:
         intro_text = """
@@ -427,14 +428,18 @@ with tab1:
        # audio_bytes = audio_file.read()
        # st.audio(audio_bytes, format="audio/mpeg")
 
-    st.subheader("How To Play")
+    st.markdown(f'<h1 style="color:#a325ff;font-size:32px;">{"How To Play"}</h1>', unsafe_allow_html=True)
+   # st.subheader("How To Play")
+   
     st.write(
-        '<p style="color:#ffffff">To start the game go to the "start game" tab. Please be sure to switch to <b>dark mode</b> or the custom theme. The Dungeon is meant to be played in the dark! </p>',
+        '<p style="color:#ffffff">To start the game go to the "Play Game!" tab. Navigate through the maze to find boxes and treasure chests to learn more about AI/ML while avoiding the monsters.',
         unsafe_allow_html=True,
     )
-    st.subheader("Controls")
+
+    st.markdown(f'<h1 style="color:#3b25ff;font-size:32px;">{"Controls"}</h1>', unsafe_allow_html=True)
+    #st.subheader("Controls")
     st.write(
-        '<p style="color:#ffffff">Desktop: please use keyboard arrows | Mobile (Android, Chrome): please use on-screen buttons | iOS: unfortunately, the auto-scrolling feature does not work yet for iOS.</p>',
+        '<p style="color:#ffffff">Desktop: please use keyboard arrows  |  Mobile (Android, Chrome): please use on-screen buttons  |  iOS: unfortunately, the auto-scrolling feature does not work yet for iOS.</p>',
         unsafe_allow_html=True,
     )
     
@@ -468,7 +473,7 @@ with tab2:
                 restart_game()
     if st.session_state["end"] == True:
         display_html = st.markdown(
-            "Thank you for playing the demo of The Dungeon. More content coming soom!",
+            "Thank you for playing CodeQuest, we hope to see you return!",
             unsafe_allow_html=True,
         )
         st.markdown(
