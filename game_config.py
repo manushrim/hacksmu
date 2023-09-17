@@ -163,4 +163,5 @@ tileset_movable = {
 }
 
 
-player_img = "player.gif"
+
+player_img = "https://raw.githubusercontent.com/manushrim/hacksmu/main/graphics/other/player.gif"
