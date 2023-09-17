@@ -466,7 +466,7 @@ with tab2:
             display_html = st.markdown(html, unsafe_allow_html=True)
         else:
             display_html = st.markdown(
-                "💀 The monster was more powerful than expected, resulting in your defeat in battle. Your AI/ML adventure has come to an unexpected end. To continue playing, please restart the app.<br><br>",
+                "Your AI/ML adventure has come to an unexpected end. To continue playing, please restart the app.<br><br>",
                 unsafe_allow_html=True,
             )
             if st.button("restart"):
