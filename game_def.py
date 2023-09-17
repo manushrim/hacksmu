@@ -23,7 +23,7 @@ class NextString:
         return string
 
 next_string = NextString([
-    "Python is the language for data science and machine learning",
+    "Python is a data science language that offers several ML data libraries",
     "learn Pandas: provides data structures to clean/transform data", 
     "learn Matplotlib",
     "learn Streamlit",
