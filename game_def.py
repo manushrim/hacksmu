@@ -191,7 +191,7 @@ def encounter(player, enemy):
     if player.x == enemy.x and player.y == enemy.y and enemy.alive == True:
         damage = 5
         st.session_state["bubble_text"] = create_text_bubble_html(
-            "OMG -" + str(damage) + "hp",
+            "Oh no! -" + str(damage) + "hp",
             player.x,
             player.y - 1,
         )
