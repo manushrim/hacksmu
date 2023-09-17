@@ -439,7 +439,7 @@ with tab1:
     st.markdown(f'<h1 style="color:#3b25ff;font-size:32px;">{"Controls"}</h1>', unsafe_allow_html=True)
     #st.subheader("Controls")
     st.write(
-        '<p style="color:#ffffff">Desktop: please use keyboard arrows \nMobile (Android, Chrome): please use on-screen buttons \niOS: unfortunately, the auto-scrolling feature does not work yet for iOS.</p>',
+        '<p style="color:#ffffff">Desktop: please use keyboard arrows  |  Mobile (Android, Chrome): please use on-screen buttons  |  iOS: unfortunately, the auto-scrolling feature does not work yet for iOS.</p>',
         unsafe_allow_html=True,
     )
     
