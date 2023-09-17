@@ -412,7 +412,7 @@ with tab1:
     col1, col2 = st.columns(2, gap="small")
     with col1:
         # main_image
-        st.image("https://r73.cooltext.com/rendered/cooltext443289264747154.png")
+        st.image("https://raw.githubusercontent.com/manushrim/hacksmu/main/graphics/other/gradient%20text%20for%20title.png")
 
         st.caption(
             "Go on a mission to learn more about AI/ML", unsafe_allow_html=True
