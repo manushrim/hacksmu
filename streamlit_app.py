@@ -407,7 +407,7 @@ tab1, tab2 = st.tabs(["About", "Play Game!"])
 # ----------------- game start --------
 
 with tab1:
-    st.header('<p style="color:#ee25ff">Welcome to CodeQuest!', unsafe_allow_html=True)
+    st.header('<p style="color:#ee25ff">Welcome to CodeQuest!')
     col1, col2 = st.columns(2, gap="small")
     with col1:
         # main_image
@@ -427,7 +427,7 @@ with tab1:
        # audio_bytes = audio_file.read()
        # st.audio(audio_bytes, format="audio/mpeg")
 
-    st.subheader('<p style="color:#ee25ff">How To Play', unsafe_allow_html=True)
+    st.subheader('<p style="color:#ee25ff">How To Play')
     st.write(
         '<p style="color:#ffffff">To start the game go to the "start game" tab. Please be sure to switch to <b>dark mode</b> or the custom theme. The Dungeon is meant to be played in the dark! </p>',
         unsafe_allow_html=True,
