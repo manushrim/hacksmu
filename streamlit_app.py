@@ -427,7 +427,8 @@ with tab1:
        # audio_bytes = audio_file.read()
        # st.audio(audio_bytes, format="audio/mpeg")
 
-    st.subheader('<p style="color:#ee25ff">How To Play')
+    st.subheader("<style>p{color:red;}</style>How To Play")
+   
     st.write(
         '<p style="color:#ffffff">To start the game go to the "start game" tab. Please be sure to switch to <b>dark mode</b> or the custom theme. The Dungeon is meant to be played in the dark! </p>',
         unsafe_allow_html=True,
