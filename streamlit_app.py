@@ -432,7 +432,7 @@ with tab1:
    # st.subheader("How To Play")
    
     st.write(
-        '<p style="color:#ffffff">To start the game go to the "Play Game!" tab. Navigate through the maze to find boxes and treasure chests to learn more about AI/ML while avoiding the monsters.'
+        '<p style="color:#ffffff">To start the game go to the "Play Game!" tab. Navigate through the maze to find boxes and treasure chests to learn more about AI/ML while avoiding the monsters.',
         unsafe_allow_html=True,
     )
 
