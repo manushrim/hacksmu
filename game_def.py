@@ -371,4 +371,4 @@ def get_text_boxes(player_x, player_y, level_name):
 
 
     def header(url):
-     st.markdown(f'<p style="background-color:#0066cc;color:#33ff33;font-size:24px;border-radius:2%;">{url}</p>', unsafe_allow_html=True)
+     st.markdown(f'<p style="background-color:#0066cc;color:##ee25ff;font-size:24px;border-radius:2%;">{url}</p>', unsafe_allow_html=True)
