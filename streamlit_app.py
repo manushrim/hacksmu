@@ -407,7 +407,7 @@ tab1, tab2 = st.tabs(["About", "Play Game!"])
 # ----------------- game start --------
 
 with tab1:
-    st.markdown(f'<h1 style="color:#ee25ff;font-size:48px;">{"Welcome to CodeQuest!"}</h1>', unsafe_allow_html=True)
+    st.markdown(f'<h1 style="color:#3b25ff;font-size:48px;">{"Welcome to CodeQuest!"}</h1>', unsafe_allow_html=True)
     #st.header("Welcome to CodeQuest!")
     col1, col2 = st.columns(2, gap="small")
     with col1:
@@ -436,7 +436,7 @@ with tab1:
         unsafe_allow_html=True,
     )
 
-    st.markdown(f'<h1 style="color:#3b25ff;font-size:32px;">{"Controls"}</h1>', unsafe_allow_html=True)
+    st.markdown(f'<h1 style="color:#ee25ff;font-size:32px;">{"Controls"}</h1>', unsafe_allow_html=True)
     #st.subheader("Controls")
     st.write(
         '<p style="color:#ffffff">Desktop: please use keyboard arrows | Mobile (Android, Chrome): please use on-screen buttons | iOS: unfortunately, the auto-scrolling feature does not work yet for iOS.</p>',
