@@ -415,7 +415,7 @@ with tab1:
         st.image("https://raw.githubusercontent.com/manushrim/hacksmu/main/graphics/other/gradient%20text%20for%20title.png")
 
         st.caption(
-            "Go on a mission to learn more about AI/ML", unsafe_allow_html=True
+            '<p style="color:#ffffff">Go on a mission to learn more about AI/ML', unsafe_allow_html=True
         )
     with col2:
         intro_text = """
