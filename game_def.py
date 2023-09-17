@@ -337,10 +337,10 @@ def create_text_bubble_html(text, x, y):
         A string containing the HTML code for the text bubble.
     """
     return f"""
-        <div class="container_text" style="position: relative; 
-        grid-column-start: {x}; grid-row-start: {y+2}; grid-column-end: {x-5};">
+        <div class="container_text" style="position: relative; display="flex";
+        grid-column-start: {x}; grid-row-start: {y+2}; grid-column-end: {x-4};">
             <img src="https://raw.githubusercontent.com/TomJohnH/streamlit-dungeon/main/graphics/other/message.png">
-            <div style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); font-size:0.875rem;">{text}</div>
+            <div style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); font-size:0.875rem;">{text}</div>
         </div>
     """
 
