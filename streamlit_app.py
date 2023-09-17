@@ -414,7 +414,7 @@ with tab1:
         st.image("https://r73.cooltext.com/rendered/cooltext443289264747154.png")
 
         st.caption(
-            "Go on a mission to learn more about AI/ML", unsafe_allow_html=True
+            '<p style="color:#ee25ff">Go on a mission to learn more about AI/ML', unsafe_allow_html=True
         )
     with col2:
         intro_text = """
