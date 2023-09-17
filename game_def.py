@@ -24,14 +24,14 @@ class NextString:
 
 next_string = NextString([
     "Python is a data science language that offers several ML data libraries",
-    "learn Pandas: provides data structures to clean/transform data", 
-    "learn Matplotlib: allows you to graph data & analyze patterns",
-    "learn Streamlit: produces web apps to execute functions on data patterns",
-    "learn OpenCV: an image recognition library for computer vision",
-    "learn Scikit-Learn: provides ML algorithms for data classification",
-    "learn TensorFlow: builds and trains ML models to perform complex tasks",
-    "learn PyTorch: another open source ML library",
-    "Start building your own projects at kaggle: compete with others in ML",
+    "Pandas: provides data structures to clean/transform data", 
+    "Matplotlib: allows you to graph data & analyze patterns",
+    "Streamlit: produces web apps to execute functions on data patterns",
+    "OpenCV: an image recognition library for computer vision",
+    "Scikit-Learn: provides ML algorithms for data classification",
+    "TensorFlow: builds and trains ML models to perform complex tasks",
+    "PyTorch: another open source ML library",
+    "Build your own projects at kaggle: compete with others in ML",
 
         ])
 
