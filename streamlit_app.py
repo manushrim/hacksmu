@@ -403,7 +403,6 @@ if (
 # ------------------------------------------------------------
 
 tab1, tab2 = st.tabs(["About", "Play Game!"])
-tab1 = '<p style="font-family:Courier; color:Blue; font-size: 20px;">Original image</p>'
 
 # ----------------- game start --------
 
